@@ -1,0 +1,19 @@
+# API keys and secrets
+.env
+
+# Generated data
+jobs_clean.csv
+
+# Metabase local state
+metabase-data/
+
+# Claude Code local config
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
